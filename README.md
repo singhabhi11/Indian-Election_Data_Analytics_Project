@@ -168,11 +168,11 @@ This project demonstrates my ability to work with **relational databases, data c
 
 ## 🧑‍💻 Author
 
-**👤 Harsh Belekar**  
+**👤 Abhishek Singh**  
 📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
-📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+📬 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-b92763288/)](https://www.linkedin.com/in/abhishek-singh-b92763288/)](https://www.linkedin.com/in/abhishek-singh-b92763288/)) | 🔗[GitHub](https://github.com/singhabhi11)
 
-📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
+📧 [singhabhishek6469@gmail.com](mailto:singhabhishek6469@gmail.com)
 
 ---
 
